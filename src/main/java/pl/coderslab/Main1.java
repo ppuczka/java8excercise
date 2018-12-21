@@ -12,6 +12,7 @@ public class Main1 {
         for (T s : src) {
             if (filter.check(s)) {
                 System.out.println(s);
+
             }
         }
     }
