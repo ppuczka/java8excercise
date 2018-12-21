@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main1",
+            "request": "launch",
+            "mainClass": "pl.coderslab.Main1",
+            "projectName": "LambdasGenerics"
+        }
+    ]
+}
