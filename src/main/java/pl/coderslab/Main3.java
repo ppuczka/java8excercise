@@ -6,13 +6,15 @@ import java.util.List;
 public class Main3 {
 
 
-    static <T, S> List<T> createList(List<T> src, Filter<T> filter, Transform<T, S> transform) {
-        List<T> finalSrc = new ArrayList<T>();
+    static <T, S> List<T> createList(List<S> src, Filter<S> filter, Transform<T, S> transform) {
 
-        for (T t : src) {
-            if (filter.check(t)) {
-                T t1 = transform.change((S) t);
-                finalSrc.add(t1);
+        List<T> finalSrc = new ArrayList<T>();
+        for (S s : src) {
+            if (filter.check(s)) {
+                T trans = transform.change((s));
+                finalSrc.add(trans);
+                System.out.println(trans);
+
 
             }
         }
@@ -29,11 +31,13 @@ public class Main3 {
         src.add(10);
         src.add(18);
         src.add(30);
-        Filter<Integer> filter = integer -> integer < 20;
-        Transform<Integer, Integer> integerTransform = integer -> integer - 1;
 
-        System.out.println(createList(src, filter, integerTransform).toString());
+        NumberFilter filter = new NumberFilter();
+        NumberTransform transform = new NumberTransform();
+
+        createList(src, s -> s < 20, t -> t + 20);
     }
+
 }
 
 

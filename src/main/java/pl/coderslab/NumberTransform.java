@@ -1,9 +1,10 @@
 package pl.coderslab;
 
-public class NumberTransform<T, S> implements Transform {
+public class NumberTransform implements Transform<Integer, Integer> {
+
 
     @Override
-    public Object change(Object o) {
-        return null;
+    public Integer change(Integer s) {
+        return s-1;
     }
 }

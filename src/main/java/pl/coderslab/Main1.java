@@ -28,11 +28,18 @@ public class Main1 {
         System.out.println(numberFilter.check(19));
 
         printList(src, numberFilter);
+
         System.out.println("Lambda");
-       printList(src, v -> v < 20);
+        printList(src, v -> v <  20);
+
+        System.out.println("funkcja anonimowa");
+        printList(src, new NumberFilter() {
+            @Override
+            public boolean check(Integer v) {
+                return v <20;
+            }
+        });
     }
-
-
 
 
 }
