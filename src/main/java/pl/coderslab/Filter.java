@@ -1,7 +1,9 @@
 package pl.coderslab;
-@FunctionalInterface
-public interface Filter<V> {
 
-    boolean check(V v);
+
+@FunctionalInterface
+public interface Filter<T> {
+
+    boolean check(T v);
 
 }

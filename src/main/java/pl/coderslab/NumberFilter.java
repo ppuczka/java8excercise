@@ -1,10 +1,10 @@
 package pl.coderslab;
 
 
-public abstract class NumberFilter<V extends Number> implements Filter {
+public class NumberFilter implements Filter<Integer> {
 
+    @Override
     public boolean check(Integer v) {
         return v < 20;
-
     }
 }

@@ -20,31 +20,19 @@ public class Main1 {
     public static void main(String[] args) {
 
         List<Integer> src = new ArrayList();
-        Filter<Integer> filter = new Filter<Integer>() {
-
-
-            public boolean check(Integer integer) {
-                return false;
-            }
-        };
         src.add(10);
         src.add(18);
         src.add(30);
 
-//        printList(src, filter);
+        NumberFilter numberFilter = new NumberFilter();
+        System.out.println(numberFilter.check(19));
 
-        NumberFilter filter1 = new NumberFilter()  {
-            public boolean check(Object o) {
-                return (Integer)0<10;
-            }
-        };
-
-
-
-        printList(src, filter1);
-
-
+        printList(src, numberFilter);
+        System.out.println("Lambda");
+       printList(src, v -> v < 20);
     }
+
+
 
 
 }
