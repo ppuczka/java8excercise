@@ -9,13 +9,7 @@ public class Main1 {
 
         String myTest = "123213wdsadasdas";
 //        Scanner scan = new Scanner(System.in);
-//        System.out.println("Wpisz ciąg znaków");
 //
-//        String imput = scan.next();
-//        String[] list = imput.split("");
-//
-//        List<String> colList = Arrays.asList(list);
-//        System.out.println(colList.toString());
 //
 //        colList.sort((s1, s2) -> s1.compareToIgnoreCase(s2));
 //        System.out.println(colList.toString());
