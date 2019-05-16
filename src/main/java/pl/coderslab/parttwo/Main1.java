@@ -16,15 +16,24 @@ public class Main1 {
 
     }
 
+    public static List<Integer> createList(Integer bound, Integer size) {
+        Random r = new Random();
+        List<Integer> integers = new ArrayList();
+
+        for (int i = 0; i < size ; i++) {
+            Integer random = r.nextInt(bound);
+            integers.add(random);
+
+        }
+        System.out.print(integers +"\n");
+     return integers;
+    }
+
     public static void main(String[] args) {
         Random r = new Random(10);
 
-        Filter<Integer> filter  = new Filter<Integer>() {
-            @Override
-            public boolean check(Integer integer) {
-                return integer < 7;
-            }
-        };
+        Filter<Integer> filter  = integer -> integer < 7;
+        NumberFilter numberFilter = new NumberFilter();
 
         List<Integer> integers = new ArrayList();
 
@@ -39,6 +48,8 @@ public class Main1 {
         System.out.println(integers.toString());
 
         pritnList(integers, filter);
+        pritnList(integers,numberFilter);
+        pritnList(integers, integer -> integer < 100);
     }
 
 

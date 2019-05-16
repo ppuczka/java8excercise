@@ -2,49 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa134563-d7bf-4d2d-bc92-a18dacbc2e19" name="Default" comment="train">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.sass-cache/2c4ef1685cc7a2320c3e3296769f54f39f82eb72/_reset.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.sass-cache/acde13dee01994d568e9024147ea7f3ff597e7aa/ie.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.sass-cache/acde13dee01994d568e9024147ea7f3ff597e7aa/print.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.sass-cache/acde13dee01994d568e9024147ea7f3ff597e7aa/screen.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.sass-cache/d22ebdd73e16e712e55dd7c6a569a1b209a4d447/_utilities.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/NumberFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CrmApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CrmApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/NumberTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Transform.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/LambdasGenerics.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/pl.coderslab/LambdasGenerics/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/pl.coderslab/LambdasGenerics/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/Main4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/Main5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/Main5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/NumberFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/NumberFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/lambdas/myFunctionalInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/lambdas/myFunctionalInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Warsztaty_1/src/Warsztaty/Zadanie_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Warsztaty_1/src/Warsztaty/Zadanie_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Warsztaty_1/src/Warsztaty/Zadanie_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Warsztaty_1/src/Warsztaty/Zadanie_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Warsztaty_4/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Warsztaty_4/Warsztaty_4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../imageneme/src/main/java/com/imageneme/rekrut" beforeDir="false" afterPath="$PROJECT_DIR$/../imageneme/src/main/java/com/imageneme/rekrut" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter_beta/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter_beta/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter_beta/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter_beta/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter_beta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter_beta/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter_beta/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter_beta/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter_beta/src/main/java/pl/coderslab/twitter/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter_beta/src/main/java/pl/coderslab/twitter/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter_beta/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter_beta/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter_beta/src/main/resources/schema-mysql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter_beta/src/main/resources/schema-mysql.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter_beta/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter_beta/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter_beta/target/classes/pl/coderslab/twitter/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter_beta/target/classes/pl/coderslab/twitter/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter_beta/target/classes/schema-mysql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter_beta/target/classes/schema-mysql.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,47 +31,70 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/homework/Main5.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="224">
+              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Filter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="237">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/Main1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Transform.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/NumberTransform.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,37 +105,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/homework/Inspectionable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/homework/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/homework/Moveable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -200,9 +172,13 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/homework/Main5.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/homework/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Filter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/NumberFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/generics/MyfirstVsCodeMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/NumberFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Transform.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/NumberTransform.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main2.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main3.java" />
       </list>
     </option>
   </component>
@@ -280,15 +256,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="coderslab" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LambdasGenerics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LambdasGenerics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
               <item name="parttwo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -310,11 +277,11 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/pl/coderslab/homework" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pl.coderslab.homework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/pl/coderslab/homework" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -329,21 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main1">
-    <configuration name="CheckNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.coderslab.homework.CheckNumber" />
-      <module name="LambdasGenerics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.coderslab.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main3">
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.coderslab.parttwo.Main1" />
       <module name="LambdasGenerics" />
@@ -358,13 +311,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.coderslab.homework.Main3" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.parttwo.Main2" />
       <module name="LambdasGenerics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.coderslab.homework.*" />
+          <option name="PATTERN" value="pl.coderslab.parttwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.parttwo.Main3" />
+      <module name="LambdasGenerics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.parttwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,19 +390,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CheckNumber" />
-      <item itemvalue="Application.Main3 (1)" />
       <item itemvalue="Application.Main4 (1)" />
       <item itemvalue="Application.Main5" />
       <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main5" />
         <item itemvalue="Application.Main4 (1)" />
-        <item itemvalue="Application.Main3 (1)" />
-        <item itemvalue="Application.CheckNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -462,12 +429,20 @@
       <workItem from="1546459605950" duration="10184000" />
       <workItem from="1546544060868" duration="10306000" />
       <workItem from="1558026786319" duration="953000" />
-      <workItem from="1558027803495" duration="1919000" />
+      <workItem from="1558027803495" duration="5269000" />
     </task>
+    <task id="LOCAL-00001" summary="train">
+      <created>1558029731393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558029731394</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55231000" />
+    <option name="totallyTimeSpent" value="58581000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,7 +462,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.3734062" side_tool="true" weight="0.46130952" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.6265938" visible="true" weight="0.27181688" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.6265938" visible="true" weight="0.27181688" />
       <window_info id="Structure" order="6" sideWeight="0.15512048" weight="0.2630458" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.244114" />
@@ -496,7 +471,7 @@
       <window_info anchor="bottom" id="Messages" order="4" weight="0.39900866" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32713756" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32713756" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -731,16 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/Main4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
@@ -830,27 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/NumberFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/generics/MyfirstVsCodeMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -865,14 +809,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="343">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/NumberTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/NumberFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Transform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/parttwo/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
