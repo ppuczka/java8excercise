@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MyfirstVsCodeMain",
+            "request": "launch",
+            "mainClass": "pl.coderslab.generics.MyfirstVsCodeMain",
+            "projectName": "LambdasGenerics"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main1a",
+            "request": "launch",
+            "mainClass": "pl.coderslab.generics.Main1a",
+            "projectName": "LambdasGenerics"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main1",
+            "request": "launch",
+            "mainClass": "pl.coderslab.generics.Main1",
+            "projectName": "LambdasGenerics"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main5",
+            "request": "launch",
+            "mainClass": "pl.coderslab.Main5",
+            "projectName": "LambdasGenerics"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main1",
+            "request": "launch",
+            "mainClass": "pl.coderslab.lambdas.Main1",
+            "projectName": "LambdasGenerics"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Main1",
             "request": "launch",
             "mainClass": "pl.coderslab.Main1",
