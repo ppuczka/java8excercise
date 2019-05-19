@@ -22,6 +22,7 @@ public class Main3 {
         return outList;
     }
 
+
     public static void main(String[] args) {
 
         List<Integer> src = createList(50, 10);
