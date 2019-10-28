@@ -5,6 +5,7 @@ import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Main1 {
 
@@ -47,10 +48,15 @@ public class Main1 {
             collection.forEach(consumer.andThen(consumer2));
         }
 
-
+    static String betterString(String s1, String s2, MyPredictate<String, String> predicate) {
+        return predicate.test(s1, s2) ?  s1 : s2;
+    }
 
 
     public static void main(String[] args) {
+
+        String str1 = "Wyraz";
+        String str2 = "Wyrażenie";
 
 
         Predicate<String> stringPredictate = s -> s.length() < 4;
@@ -82,5 +88,25 @@ public class Main1 {
 
         consumeCollection(collection, firstConsumer, secondConsumer);
 
+
+//        web exercises
+
+        Comparator<String> comparator = String::compareTo;
+        Comparator<String> characterComparator = (Comparator.comparingInt(c -> c.charAt(0)));
+        stringList.sort(String::compareTo);
+        stringList.forEach(System.out::println);
+
+        stringList.sort(comparator.reversed());
+        stringList.forEach(System.out::println);
+
+
+        stringList.sort(characterComparator);
+        stringList.forEach(System.out::println);
+
+        MyPredictate<String, String> predictate = Predicate.isEqual("Wyraz");
+        System.out.println(betterString(str1, str2, predictate));
+
     }
-}
+
+    }
+
