@@ -1,0 +1,11 @@
+
+Fsquid:EmptyStatementUsageCheck"Remove this empty statement.(ºçãë
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Ï•­ÿÿÿÿÿ
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(·˜µüÿÿÿÿ
+O
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÁÊÃ°
+Fsquid:EmptyStatementUsageCheck'"Remove this empty statement.(ÁÊÃ°
