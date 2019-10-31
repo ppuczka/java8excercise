@@ -35,7 +35,7 @@ public class Main1 {
 
     static <S, T> List<T> changeCollection(Collection<S> collection, Function<S, T> function) {
         List<T> returnedCollection = new ArrayList<>();
-        for (S c: collection) {
+        for (S c : collection) {
             function.apply((c));
             returnedCollection.add(function.apply((c)));
 
@@ -45,11 +45,15 @@ public class Main1 {
 
     static <T> void consumeCollection(Collection<T> collection, Consumer<T> consumer, Consumer<T> consumer2) {
 
-            collection.forEach(consumer.andThen(consumer2));
-        }
+        collection.forEach(consumer.andThen(consumer2));
+    }
 
     static String betterString(String s1, String s2, MyPredictate<String, String> predicate) {
-        return predicate.test(s1, s2) ?  s1 : s2;
+        return predicate.test(s1, s2) ? s1 : s2;
+    }
+
+    static boolean isOdd(Integer number, Function<Integer, Boolean> function) {
+        return function.apply(number);
     }
 
 
@@ -83,7 +87,7 @@ public class Main1 {
         List<Integer> functionList = changeCollection(collection, functionString);
         functionList.forEach(System.out::println);
 
-        Consumer<String> firstConsumer = s -> s.substring(1, s.length()-1);
+        Consumer<String> firstConsumer = s -> s.substring(1, s.length() - 1);
         Consumer<String> secondConsumer = System.out::println;
 
         consumeCollection(collection, firstConsumer, secondConsumer);
@@ -102,11 +106,12 @@ public class Main1 {
 
         stringList.sort(characterComparator);
         stringList.forEach(System.out::println);
+        Function<Integer, Boolean> isOddFunction = i -> i % 2 == 0;
+        System.out.println(isOdd(13, isOddFunction));
 
-        MyPredictate<String, String> predictate = Predicate.isEqual("Wyraz");
-        System.out.println(betterString(str1, str2, predictate));
+        Function<Integer, Boolean> isPrimeFunction = i -> i % i == 0 && i % 1 == 0 && i % 2 != 0;
+        System.out.println(isPrimeFunction.apply(137));
 
     }
-
-    }
+}
 
