@@ -1,0 +1,22 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¼åÃüÿÿÿÿ
+T
+squid:S106%"9Replace this use of System.out or System.err by a logger.(™¼åÃüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¼åÃüÿÿÿÿ
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+}squid:S1192"aDefine a constant instead of duplicating this literal "********************************" 4 times.(™¼åÃüÿÿÿÿ
+Bsquid:S1612(",Replace this lambda with a method reference.(¿Òë
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(íýûë
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¼åÃüÿÿÿÿ
+Xsquid:UselessImportCheck"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ

@@ -2,9 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfb66be1-eaa1-4cb5-a809-27fdf7f68a67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/streams/Streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/streams/Streams2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/0562f6e20cba1c492e01404dd228b6a9ab123ce7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/084ad64f1b0e8f57ae3140231780a8f461ee562b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/4511803d30e562d16bcf7af4016f1d78bafb0b6c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49397d1a3d2648e69a824bfcdfc247f2b278999c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59447ba3951971e3e5c38eb4e4a5fe2e6988c246" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59a7cf1d358a6088539a1be5bbba8e1f1277ac52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5be803e4618c8e1df1edd96ef437da39e4948dd5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e8c7a13d619dddc98cb61a1e49db1692b87ea4f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/672159d4e66204275093069d87b7a58ef1c713fd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/761ad77ffc868b09b1ed789f641641ab01ca99e5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7823ab440c071fc80eba19b8154ea1b5f6e68097" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e1929c339c154e7d2ccd442584589a78a3b040c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85d3eb9da7f24a60ea1db9ff006231b59a3c4ac2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86ef61c6bddc50a69ccb03c8ef144cb870a1b718" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94a3982fc8f589ca51355d5d2a23c2ed5cd6d6ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bde888079f22a9246095521dee236da4642a9eff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c623a0c626e18b08be89cc70000a7b4dae84b90a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c66d6137be9a567f7051c78561a97b56a60eff0b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3143ccef3222f03c05399814305bf2204391103" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f23174ca3549de8466e1af45708b048b94741bc5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f7b4388d4cae6519ce933a07bbbb63ad7898b508" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e8ccba8ea022bedc5fa34cd7c42759e64628021" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e8ccba8ea022bedc5fa34cd7c42759e64628021" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b948e25d580486490579aab96712b704b265ed9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b948e25d580486490579aab96712b704b265ed9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dd6973654829a52cde5bd7c06e5750a60948fb6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dd6973654829a52cde5bd7c06e5750a60948fb6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/4938476a00aa73bd3cd34266898bb83a11399032" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/4938476a00aa73bd3cd34266898bb83a11399032" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a9ce4378a8b2569b5b1c432311e87b008831e22" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a9ce4378a8b2569b5b1c432311e87b008831e22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9280bebf3b2f7d5045f2a1c069d6bae4855edd3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9280bebf3b2f7d5045f2a1c069d6bae4855edd3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/streams/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/streams/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/streams/Streams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/streams/Streams2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Streams2">
+  <component name="RunManager" selected="Application.Streams">
     <configuration name="Lambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.coderslab.excercises.Lambdas" />
       <module name="LambdasGenerics" />
@@ -124,8 +153,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Streams2" />
         <item itemvalue="Application.Streams" />
+        <item itemvalue="Application.Streams2" />
         <item itemvalue="Application.Main1 (2)" />
         <item itemvalue="Application.Main1 (1)" />
         <item itemvalue="Application.Lambdas" />
@@ -143,7 +172,8 @@
       <option name="presentableId" value="Default" />
       <updated>1572027584903</updated>
       <workItem from="1572027587731" duration="7771000" />
-      <workItem from="1572070619401" duration="25424000" />
+      <workItem from="1572070619401" duration="26197000" />
+      <workItem from="1573193721410" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="exercises...">
       <created>1572275963801</created>
@@ -166,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572540999648</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exercises...">
+      <created>1572951854016</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572951854016</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

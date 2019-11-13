@@ -24,7 +24,8 @@ public class Streams {
         String created = words.stream().sorted().map(s -> s.substring(0,3)).collect(Collectors.joining(","));
         System.out.println(created);
 
-
+        words.stream().sorted().forEach(System.out::println);
+        words.sort(String::compareTo);
     }
 
 

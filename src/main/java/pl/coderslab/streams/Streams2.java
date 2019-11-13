@@ -33,7 +33,6 @@ public class Streams2 {
         List<String> sortedList = list.stream().sorted().collect(Collectors.toList());
         sortedList.forEach(System.out::println);
         sortedList.stream().filter(n -> n.contains("c")).forEach(System.out::println);
-        sortedList.stream().map(n -> n.length()).;
     }
 
 

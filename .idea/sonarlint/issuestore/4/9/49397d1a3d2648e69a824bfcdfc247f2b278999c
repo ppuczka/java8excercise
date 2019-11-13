@@ -1,0 +1,40 @@
+
+V
+squid:S106K"9Replace this use of System.out or System.err by a logger.(®ŸÃ8Í•ğŒá-
+[
+squid:S106l"9Replace this use of System.out or System.err by a logger.(·»ÛÚùÿÿÿÿ8”ôÁ¡á-
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(öù˜ñùÿÿÿÿ8‰ÃÛá-
+Jsquid:S1612V",Replace this lambda with a method reference.(İ…èÒ8§§È‘á-
+{squid:S4276p"XRefactor this code to use the more specialised Functional Interface 'Predicate<Integer>'(æœœãûÿÿÿÿ8àÍˆâ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šºÖÔıÿÿÿÿ
+Lsquid:S1481>")Remove this unused "str1" local variable.(‡úÿÏÿÿÿÿÿ8Ø›ˆâ-
+bsquid:S2185p"?Remove this computation of % 1, which always evaluates to zero.(æœœãûÿÿÿÿ8àÍˆâ-
+xsquid:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(Ã—ì8¥éÒá-
+msquid:S1764p"JCorrect one of the identical sub-expressions on both sides of operator "%"(æœœãûÿÿÿÿ8áøÓˆâ-
+vsquid:S42767"XRefactor this code to use the more specialised Functional Interface 'Predicate<Integer>'(ş¿šº8Ä­ˆâ-
+[squid:S1854C"=Remove this useless assignment to local variable "containsB".(ÌÆŞò8ö´Èá-
+[
+squid:S106X"9Replace this use of System.out or System.err by a logger.(Û®•áøÿÿÿÿ8ÅúÍ‘á-
+Vsquid:S1854?"8Remove this useless assignment to local variable "str2".(Å‚å¸8Ø›ˆâ-
+vsquid:S4276m"XRefactor this code to use the more specialised Functional Interface 'Predicate<Integer>'(ƒİÌš8°éµˆâ-
+_squid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ªè¡á-
+Gsquid:S1481?")Remove this unused "str2" local variable.(Å‚å¸8Ø›ˆâ-
+U
+squid:S106n"9Replace this use of System.out or System.err by a logger.(Õ¤Ô$8©ºˆâ-
+[
+squid:S106h"9Replace this use of System.out or System.err by a logger.(·»ÛÚùÿÿÿÿ8ßñ á-
+ysquid:S4276F"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(¡²•8®„Öá-
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ÓÉÓ¨úÿÿÿÿ8Ôğşá-
+V
+squid:S106["9Replace this use of System.out or System.err by a logger.(Î±şÎ8³ÌÜ‘á-
+ysquid:S4276V"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(İ…èÒ8µèÇ‘á-
+[squid:S1854>"8Remove this useless assignment to local variable "str1".(‡úÿÏÿÿÿÿÿ8Ø›ˆâ-
+Lsquid:S1481C".Remove this unused "containsB" local variable.(ÌÆŞò8ö´Èá-
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(éÍüÿÿÿÿ8Î»á-
+[
+squid:S106e"9Replace this use of System.out or System.err by a logger.(·»ÛÚùÿÿÿÿ8êöÉ á-
+[
+squid:S106q"9Replace this use of System.out or System.err by a logger.(ƒÚ€şÿÿÿÿ8Íãˆâ-

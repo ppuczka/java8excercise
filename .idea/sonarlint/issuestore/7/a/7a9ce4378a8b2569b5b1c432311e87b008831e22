@@ -1,8 +1,8 @@
 
+]squid:S1854":Remove this useless assignment to local variable "filter".(º¯×ðùÿÿÿÿ8Í‰³§à-
+Nsquid:S1481"+Remove this unused "filter" local variable.(º¯×ðùÿÿÿÿ8Í‰³§à-
 isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Îƒ¨è8Í‰³§à-
 nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Í‰³§à-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ü£ïÙ8ú¥Ø¦à-
 nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ôó›ûÿÿÿÿ8Í‰³§à-
-]squid:S1854":Remove this useless assignment to local variable "filter".(º¯×ðùÿÿÿÿ8Í‰³§à-
-Nsquid:S1481"+Remove this unused "filter" local variable.(º¯×ðùÿÿÿÿ8Í‰³§à-

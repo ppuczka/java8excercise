@@ -1,9 +1,22 @@
 
+Ssquid:S14816"5Remove this unused "stringPredictate" local variable.(‚¹ôı8ÛåÁà-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ó²¬Àà-
+Ksquid:S1604F"(Make this anonymous inner class a lambda( âõœûÿÿÿÿ8Ğ¸¢¶à-
+dsquid:S11267"AReplace this if-then-else statement by a single return statement.(Şßâûÿÿÿÿ8³·ùÀà-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8¢Şı¨à-
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8åç›Áà-
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(Ü¦ÛÂüÿÿÿÿ8œ¸§¶à-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8ãøÑµà-
 V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ó‹ö„8’Ş€¨à-
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ó‹ö„8’Ş€¨à-
+bsquid:S18546"DRemove this useless assignment to local variable "stringPredictate".(‚¹ôı8ÛåÁà-
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8¢Şı¨à-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8³„÷¨à-
-[
-squid:S106'"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8ãøÑµà-
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8³„÷¨à-
+V
+squid:S106P"9Replace this use of System.out or System.err by a logger.(„ÿÒ‘8°æ¬¶à-
+_squid:UselessImportCheck"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8ËÕÙ¶à-
